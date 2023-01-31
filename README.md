@@ -12,3 +12,6 @@
 - In PyCharm -> File Watchers:
   - Click arrow down icon
   - Select `watchers.xml`
+- In PyCharm, install "Mypy" plugin (not "Mypy (Official)")
+  - `which mypy` to get path to mypy binary
+  - Select mypy binary i mypy config in PyCharm
