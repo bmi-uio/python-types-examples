@@ -48,7 +48,7 @@ python-versions = ">=3.6"
 name = "mypy"
 version = "0.991"
 description = "Optional static typing for Python"
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=3.7"
 
@@ -106,7 +106,7 @@ python-versions = ">=3.6"
 name = "tomli"
 version = "2.0.1"
 description = "A lil' TOML parser"
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=3.7"
 
@@ -141,7 +141,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.10,<4.0"
-content-hash = "07a15c6416706ce65b45e52ed331da66a108ceacc12a18bc61bd0e6dcd5aef3c"
+content-hash = "8e68b6b503b233f0b0bc1c51737b92cf8450ff78b1b87ba51f28b3fe0855a297"
 
 [metadata.files]
 flake8 = [
