@@ -9,6 +9,9 @@
   - `conda activate myenv`
 - Install dependencies:
   - `poetry install --with dev --no-root`
+
+## For mypy support in PyCharm
+
 - In PyCharm, install "Mypy" plugin (not "Mypy (Official)")
   - `which mypy` to get path to mypy binary
   - In the PyCharm settings for the mypy plugin:
