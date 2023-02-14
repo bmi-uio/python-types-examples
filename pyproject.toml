@@ -18,6 +18,7 @@ flake8 = "^6.0.0"
 isort = "^5.10.1"
 flake8-quotes = "^3.3.1"
 mypy = "^0.991"
+toml = "^0.10.2"
 
 [build-system]
 requires = ["poetry-core"]
